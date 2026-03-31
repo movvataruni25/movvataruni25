@@ -6,8 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Generative+AI+%26+LLM+Specialist;RAG+Pipeline+Architect;Cloud-Native+AI+Systems+Builder)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Movvataruni25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taruni%20Movva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taruni-movva/)
+
+[![Email](https://img.shields.io/badge/Gmail-Movvataruni25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Movvataruni25@gmail.com?subject=Regarding%20Your%20Profile&body=Hello%20Taruni,%20I%20visited%20your%20portfolio...)
 [![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![AWS Dev](https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
