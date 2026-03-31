@@ -109,20 +109,6 @@ AI / ML Engineer with **3+ years** of hands-on experience architecting, developi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaruniMovva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruniMovva&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TaruniMovva&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -139,8 +125,9 @@ AI / ML Engineer with **3+ years** of hands-on experience architecting, developi
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Movvataruni25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Movvataruni25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taruni_Movva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taruni%20Movva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taruni-movva/)
+
+[![Email](https://img.shields.io/badge/Gmail-Movvataruni25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Movvataruni25@gmail.com?subject=Regarding%20Your%20Profile&body=Hello%20Taruni,%20I%20visited%20your%20portfolio...)
 [![Location](https://img.shields.io/badge/Location-Warrenville%2C_IL-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 </div>
