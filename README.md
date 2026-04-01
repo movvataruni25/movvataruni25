@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Taruni Movva"/>
+<img src="taruni_profile.jpg" width="150" style="border-radius: 50%;" alt="Taruni Movva"/>
 
 # Taruni Movva
 
